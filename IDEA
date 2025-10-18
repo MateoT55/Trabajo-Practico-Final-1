@@ -1,0 +1,31 @@
+8. Sistema de Generación y Análisis de Recetas (Nutrición) 🥗
+Descripción: Permite crear recetas, calcular su valor nutricional y clasificarlas según requerimientos dietéticos.
+
+Conceptos Clave:
+
+POO/Herencia: Clase base Ingrediente (atributos: nombre, cantidad, unidad, caloriasPorGramo). Clases derivadas: Vegetal, Proteina, Carbohidrato.
+
+Agregación/Composición: Una Receta agrega una lista de Ingrediente. Un PlanAlimenticio agrega una lista de Receta.
+
+Interfaces: ICalculable (método CalcularNutricional(), que devuelve un objeto con la suma de calorías, proteínas, etc.).
+
+Enum: TipoDieta (Vegana, Keto, Mediterránea), UnidadMedida.
+
+API Propia: Exponer o simular un "Catálogo Nutricional" de ingredientes, donde la aplicación de consola consulta las calorías, proteínas, etc., por nombre de ingrediente.
+
+JSON: Persistencia de Recetas y PlanesAlimenticios.
+
+Puntos a Considerar para el Éxito
+Originalidad: Para asegurar que el tema sea único (restricción clave), elijan un nicho específico, por ejemplo:
+
+En lugar de "Gestión de Empleados", elijan "Gestión de Horarios y Turnos de Enfermería".
+
+En lugar de "Librería", elijan "Gestión de Colecciones de Cómics y su Valoración".
+
+Complejidad de POO: Asegúrense de que la herencia tenga sentido y que las subclases agreguen métodos y atributos únicos.
+
+Persistencia y API:
+
+La aplicación lee y escribe las colecciones de objetos principales con JSON (Serialización/Deserialización).
+
+La API (propia o simulada) se usa para consultar un tipo de dato diferente o complementario al que se guarda localmente (ej: consultar el stock de otra ubicación, el detalle de un usuario externo, o datos nutricionales centralizados).
