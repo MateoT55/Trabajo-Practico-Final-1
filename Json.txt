@@ -1,0 +1,177 @@
+{
+  "Proteinas": [
+    {
+      "Nombre": "Carne Picada (Cocida)",
+      "Calorias": 254,
+      "Proteinas": 26,
+      "Carbohidratos": 0,
+      "Grasas": 15,
+      "Vegano": false,
+      "Celiaco": true
+    },
+    {
+      "Nombre": "Pechuga de Pollo (Cocida)",
+      "Calorias": 111,
+      "Proteinas": 21,
+      "Carbohidratos": 0,
+      "Grasas": 3,
+      "Vegano": false,
+      "Celiaco": true
+    },
+    {
+      "Nombre": "Soja (Porotos Cocidos)",
+      "Calorias": 172,
+      "Proteinas": 18,
+      "Carbohidratos": 10,
+      "Grasas": 9,
+      "Vegano": true,
+      "Celiaco": true
+    },
+    {
+      "Nombre": "Huevo (Duro)",
+      "Calorias": 141,
+      "Proteinas": 12.7,
+      "Carbohidratos": 0.68,
+      "Grasas": 9.7,
+      "Vegano": false,
+      "Celiaco": true
+    }
+  ],
+  "Carbohidratos": [
+    {
+      "Nombre": "Arroz Blanco (Cocido)",
+      "Calorias": 82,
+      "Proteinas": 1.4,
+      "Carbohidratos": 19.1,
+      "Grasas": 0.1,
+      "Vegano": true,
+      "Celiaco": true
+    },
+    {
+      "Nombre": "Fideos (Cocidos)",
+      "Calorias": 158,
+      "Proteinas": 6,
+      "Carbohidratos": 31,
+      "Grasas": 0.9,
+      "Vegano": true,
+      "Celiaco": false
+    },
+    {
+      "Nombre": "Pan Blanco",
+      "Calorias": 265,
+      "Proteinas": 9,
+      "Carbohidratos": 49,
+      "Grasas": 3.2,
+      "Vegano": true,
+      "Celiaco": false
+    },
+    {
+      "Nombre": "Papa (Cocida)",
+      "Calorias": 87,
+      "Proteinas": 1.9,
+      "Carbohidratos": 20,
+      "Grasas": 0.1,
+      "Vegano": true,
+      "Celiaco": true
+    }
+  ],
+  "Vegetales": [
+    {
+      "Nombre": "Cebolla (Cruda)",
+      "Calorias": 40,
+      "Proteinas": 1.1,
+      "Carbohidratos": 7.6,
+      "Grasas": 0.1,
+      "Vegano": true,
+      "Celiaco": true
+    },
+    {
+      "Nombre": "Tomate (Crudo)",
+      "Calorias": 20,
+      "Proteinas": 1,
+      "Carbohidratos": 4,
+      "Grasas": 0,
+      "Vegano": true,
+      "Celiaco": true
+    },
+    {
+      "Nombre": "Lechuga (Cruda)",
+      "Calorias": 14,
+      "Proteinas": 0.9,
+      "Carbohidratos": 3,
+      "Grasas": 0.1,
+      "Vegano": true,
+      "Celiaco": true
+    }
+  ],
+  "Frutas": [
+    {
+      "Nombre": "Frutilla",
+      "Calorias": 32,
+      "Proteinas": 0.7,
+      "Carbohidratos": 5.7,
+      "Grasas": 0.3,
+      "Vegano": true,
+      "Celiaco": true
+    },
+    {
+      "Nombre": "Banana",
+      "Calorias": 91,
+      "Proteinas": 1.1,
+      "Carbohidratos": 21.1,
+      "Grasas": 0.3,
+      "Vegano": true,
+      "Celiaco": true
+    },
+    {
+      "Nombre": "Naranja",
+      "Calorias": 47,
+      "Proteinas": 0.9,
+      "Carbohidratos": 11.8,
+      "Grasas": 0.1,
+      "Vegano": true,
+      "Celiaco": true
+    }
+  ],
+  "Lacteos": [
+
+    {
+      "Nombre": "Leche (Entera)",
+      "Calorias": 63,
+      "Proteinas": 3.1,
+      "Carbohidratos": 4.6,
+      "Grasas": 3.6,
+      "Vegano": false,
+      "Celiaco": true
+    },
+    {
+      "Nombre": "Queso (Cheddar)",
+      "Calorias": 357,
+      "Proteinas": 29.5,
+      "Carbohidratos": 0,
+      "Grasas": 26.5,
+      "Vegano": false,
+      "Celiaco": true
+    }
+  ],
+  "Liquidos": [
+    {
+      "Nombre": "Agua",
+      "Calorias": 0,
+      "Proteinas": 0,
+      "Carbohidratos": 0,
+      "Grasas": 0,
+      "Vegano": true,
+      "Celiaco": true
+    },
+    {
+      "Nombre": "Yogurt Natural (Entero)",
+      "Calorias": 66,
+      "Proteinas": 4.6,
+      "Carbohidratos": 5.3,
+      "Grasas": 3,
+      "Vegano": false,
+      "Celiaco": true
+    }
+  ]
+}
