@@ -8,7 +8,7 @@ namespace Trabajo_Final_Programación
 {
     public class Ingrediente
     {
-        private string _nombre;
+        private string _Nombre;
         private double _cantidad;
         private double _calorias;
         private double _proteina;
@@ -44,10 +44,10 @@ namespace Trabajo_Final_Programación
             this.aptoCeliaco = aptoCeliaco;
         }
 
-        public string nombre
+        public string Nombre
         {
-            get { return this._nombre; }
-            set { this._nombre = value; }
+            get { return this._Nombre; }
+            set { this._Nombre = value; }
         }
 
         public double cantidad

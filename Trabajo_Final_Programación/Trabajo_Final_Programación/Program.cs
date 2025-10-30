@@ -1,16 +1,52 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace Trabajo_Final_Programación
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
+            try
+            {
+                HttpClient client = new HttpClient();
 
+
+
+                Ingrediente Ing = new Ingrediente();
+                string urlApi = $"https://jsonreader-5pkg.onrender.com/ingredientes";
+                string datos = await client.GetStringAsync(urlApi);
+
+                Ing = JsonSerializer.Deserialize<Ingrediente>(datos);
+
+
+
+                foreach (Proteina Pr in Ing)
+                {
+                    Console.WriteLine(Pr.Nombre);
+                }
+
+
+
+
+
+
+
+
+
+
+
+            }
+            catch 
+            { 
+            
+            }
 
         }
     }
