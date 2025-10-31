@@ -8,7 +8,7 @@ namespace Trabajo_Final_Programación
 {
     public class Ingrediente
     {
-        private string _Nombre;
+        private string _nombre;
         private double _cantidad;
         private double _calorias;
         private double _proteina;
@@ -21,7 +21,7 @@ namespace Trabajo_Final_Programación
 
         public Ingrediente()
         {
-            this.Nombre = string.Empty;
+            this.nombre = string.Empty;
             this.cantidad = 0;
             this.calorias = 0;
             this.proteina = 0;
@@ -34,7 +34,7 @@ namespace Trabajo_Final_Programación
 
         public Ingrediente(string nombre, double cantidad, double calorias, double proteina, double carbohidratos, double grasas, bool esVegano, bool aptoCeliaco)
         {
-            this.Nombre = nombre;
+            this.nombre = nombre;
             this.cantidad = cantidad;
             this.calorias = calorias;
             this.proteina = proteina;
@@ -44,10 +44,10 @@ namespace Trabajo_Final_Programación
             this.aptoCeliaco = aptoCeliaco;
         }
 
-        public string Nombre
+        public string nombre
         {
-            get { return this._Nombre; }
-            set { this._Nombre = value; }
+            get { return this._nombre; }
+            set { this._nombre = value; }
         }
 
         public double cantidad

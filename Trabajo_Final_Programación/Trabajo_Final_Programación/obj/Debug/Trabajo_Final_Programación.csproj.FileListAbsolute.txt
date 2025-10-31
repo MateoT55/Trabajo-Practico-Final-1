@@ -27,3 +27,32 @@ C:\Users\Usuario\Desktop\Trabajo Final Programacion\Trabajo-Practico-Final-1\Tra
 C:\Users\Usuario\Desktop\Trabajo Final Programacion\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\obj\Debug\Trabajo_Final_Programación.exe
 C:\Users\Usuario\Desktop\Trabajo Final Programacion\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\obj\Debug\Trabajo_Final_Programación.pdb
 C:\Users\Usuario\Desktop\Trabajo Final Programacion\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\obj\Debug\Trabajo_Final_Programación.exe.config
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\Trabajo_Final_Programación.exe.config
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\Trabajo_Final_Programación.exe
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\Trabajo_Final_Programación.pdb
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.Buffers.dll
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.Memory.dll
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.Text.Json.dll
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.ValueTuple.dll
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.Buffers.xml
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.Memory.xml
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.Text.Json.xml
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\bin\Debug\System.ValueTuple.xml
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\obj\Debug\Trabajo_Final_Programación.csproj.AssemblyReference.cache
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\obj\Debug\Trabajo_Final_Programación.exe.config
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\obj\Debug\Trabajo_Final_Programación.csproj.CoreCompileInputs.cache
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\obj\Debug\Trabajo_.56B5E6C7.Up2Date
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\obj\Debug\Trabajo_Final_Programación.exe
+C:\Users\Shyve\OneDrive\Escritorio\TP FINAL\MODIFICABLE\Trabajo-Practico-Final-1\Trabajo_Final_Programación\Trabajo_Final_Programación\obj\Debug\Trabajo_Final_Programación.pdb

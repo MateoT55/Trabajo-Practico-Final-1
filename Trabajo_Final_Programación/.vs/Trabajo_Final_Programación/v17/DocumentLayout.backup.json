@@ -1,54 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\",
+  "WorkspaceRootPath": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|c:\\users\\usuario\\desktop\\trabajo final programacion\\trabajo-practico-final-1\\trabajo_final_programaci\u00F3n\\trabajo_final_programaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|c:\\users\\usuario\\desktop\\trabajo final programacion\\trabajo-practico-final-1\\trabajo_final_programaci\u00F3n\\trabajo_final_programaci\u00F3n\\ingredienteapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\ingredienteapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\gestorrecetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\gestorrecetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\lacteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\lacteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\liquido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\liquido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\fruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\fruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\fruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\vegetal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\vegetal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\gestorrecetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\gestorrecetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\carbohidrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\carbohidrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\proteina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\proteina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|c:\\users\\shyve\\onedrive\\escritorio\\tp final\\modificable\\trabajo-practico-final-1\\trabajo_final_programaci\u00F3n\\trabajo_final_programaci\u00F3n\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\icalcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\lacteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\lacteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\liquido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\liquido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\vegetal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\vegetal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\carbohidrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\carbohidrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\proteina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\proteina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\icalcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\icalcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\trabajo_final_programaci\u00F3n\\ingredienteapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D634EF-AE78-4EBE-B7EB-54ECCCD9866E}|Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n.csproj|solutionrelative:trabajo_final_programaci\u00F3n\\ingredienteapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,34 +58,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 100,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IngredienteApi.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\IngredienteApi.cs",
-              "RelativeDocumentMoniker": "Trabajo_Final_Programaci\u00F3n\\IngredienteApi.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\IngredienteApi.cs",
-              "RelativeToolTip": "Trabajo_Final_Programaci\u00F3n\\IngredienteApi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Title": "Fruta.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Fruta.cs",
+              "RelativeDocumentMoniker": "Trabajo_Final_Programaci\u00F3n\\Fruta.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Fruta.cs",
+              "RelativeToolTip": "Trabajo_Final_Programaci\u00F3n\\Fruta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T13:11:54.546Z",
+              "WhenOpened": "2025-10-28T20:34:59.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Program.cs",
               "RelativeDocumentMoniker": "Trabajo_Final_Programaci\u00F3n\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Program.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Program.cs",
               "RelativeToolTip": "Trabajo_Final_Programaci\u00F3n\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T20:05:48.454Z",
               "EditorCaption": ""
@@ -94,11 +106,11 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Proteina.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Proteina.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Proteina.cs",
               "RelativeDocumentMoniker": "Trabajo_Final_Programaci\u00F3n\\Proteina.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Proteina.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Proteina.cs",
               "RelativeToolTip": "Trabajo_Final_Programaci\u00F3n\\Proteina.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T20:19:50.968Z",
               "EditorCaption": ""
@@ -107,11 +119,11 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Carbohidrato.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Carbohidrato.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Carbohidrato.cs",
               "RelativeDocumentMoniker": "Trabajo_Final_Programaci\u00F3n\\Carbohidrato.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Carbohidrato.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Carbohidrato.cs",
               "RelativeToolTip": "Trabajo_Final_Programaci\u00F3n\\Carbohidrato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T20:26:14.786Z",
               "EditorCaption": ""
@@ -120,11 +132,11 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Vegetal.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Vegetal.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Vegetal.cs",
               "RelativeDocumentMoniker": "Trabajo_Final_Programaci\u00F3n\\Vegetal.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Vegetal.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Vegetal.cs",
               "RelativeToolTip": "Trabajo_Final_Programaci\u00F3n\\Vegetal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T20:34:30.458Z",
               "EditorCaption": ""
@@ -132,103 +144,93 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Fruta.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Fruta.cs",
-              "RelativeDocumentMoniker": "Trabajo_Final_Programaci\u00F3n\\Fruta.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Fruta.cs",
-              "RelativeToolTip": "Trabajo_Final_Programaci\u00F3n\\Fruta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:34:59.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Liquido.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Liquido.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Liquido.cs",
               "RelativeDocumentMoniker": "Trabajo_Final_Programaci\u00F3n\\Liquido.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Liquido.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Liquido.cs",
               "RelativeToolTip": "Trabajo_Final_Programaci\u00F3n\\Liquido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T20:35:34.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Lacteo.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Lacteo.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Lacteo.cs",
               "RelativeDocumentMoniker": "Trabajo_Final_Programaci\u00F3n\\Lacteo.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Lacteo.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Lacteo.cs",
               "RelativeToolTip": "Trabajo_Final_Programaci\u00F3n\\Lacteo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T20:36:15.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Receta.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Receta.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Receta.cs",
               "RelativeDocumentMoniker": "Trabajo_Final_Programaci\u00F3n\\Receta.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Receta.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Receta.cs",
               "RelativeToolTip": "Trabajo_Final_Programaci\u00F3n\\Receta.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T20:38:04.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GestorRecetas.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\GestorRecetas.cs",
-              "RelativeDocumentMoniker": "Trabajo_Final_Programaci\u00F3n\\GestorRecetas.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\GestorRecetas.cs*",
-              "RelativeToolTip": "Trabajo_Final_Programaci\u00F3n\\GestorRecetas.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:52:27.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Ingrediente.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Ingrediente.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Ingrediente.cs",
               "RelativeDocumentMoniker": "Trabajo_Final_Programaci\u00F3n\\Ingrediente.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Ingrediente.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\Ingrediente.cs",
               "RelativeToolTip": "Trabajo_Final_Programaci\u00F3n\\Ingrediente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T20:06:49.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestorRecetas.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\GestorRecetas.cs",
+              "RelativeDocumentMoniker": "Trabajo_Final_Programaci\u00F3n\\GestorRecetas.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\GestorRecetas.cs",
+              "RelativeToolTip": "Trabajo_Final_Programaci\u00F3n\\GestorRecetas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T20:52:27.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "IngredienteApi.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\IngredienteApi.cs",
+              "RelativeDocumentMoniker": "Trabajo_Final_Programaci\u00F3n\\IngredienteApi.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\IngredienteApi.cs",
+              "RelativeToolTip": "Trabajo_Final_Programaci\u00F3n\\IngredienteApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:11:54.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ICalcular.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\ICalcular.cs",
+              "DocumentMoniker": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\ICalcular.cs",
               "RelativeDocumentMoniker": "Trabajo_Final_Programaci\u00F3n\\ICalcular.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Trabajo Final Programacion\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\ICalcular.cs",
+              "ToolTip": "C:\\Users\\Shyve\\OneDrive\\Escritorio\\TP FINAL\\MODIFICABLE\\Trabajo-Practico-Final-1\\Trabajo_Final_Programaci\u00F3n\\Trabajo_Final_Programaci\u00F3n\\ICalcular.cs",
               "RelativeToolTip": "Trabajo_Final_Programaci\u00F3n\\ICalcular.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T20:16:57.378Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 100,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             }
           ]
         }

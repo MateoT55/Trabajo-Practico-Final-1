@@ -12,7 +12,7 @@ namespace Trabajo_Final_Programación
 
         public Fruta()
         {
-            this.Nombre = string.Empty;
+            this.nombre = string.Empty;
             this.cantidad = 0;
             this.calorias = 0;
             this.proteina = 0;
@@ -24,7 +24,7 @@ namespace Trabajo_Final_Programación
 
         public Fruta(string nombre, double cantidad, double calorias, double proteina, double carbohidratos, double grasas, bool esVegano, bool aptoCeliaco)
         {
-            this.Nombre = nombre;
+            this.nombre = nombre;
             this.cantidad = cantidad;
             this.calorias = calorias;
             this.proteina = proteina;
