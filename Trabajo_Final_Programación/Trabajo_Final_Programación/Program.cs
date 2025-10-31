@@ -6,6 +6,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 using System.Xml.Linq;
+using System.Text.Json;
 
 namespace Trabajo_Final_Programación
 {
@@ -13,41 +14,43 @@ namespace Trabajo_Final_Programación
     {
         static async Task Main(string[] args)
         {
+            
             try
             {
                 HttpClient client = new HttpClient();
 
 
-
                 Ingrediente Ing = new Ingrediente();
-                string urlApi = $"https://jsonreader-5pkg.onrender.com/ingredientes";
+                string urlApi = ($"https://jsonreader-5pkg.onrender.com/ingredientes");
                 string datos = await client.GetStringAsync(urlApi);
+
 
                 Ing = JsonSerializer.Deserialize<Ingrediente>(datos);
 
+                IngredienteApi apiData = JsonSerializer.Deserialize<IngredienteApi>(datos);
 
-
-                foreach (Proteina Pr in Ing)
+                foreach (Proteina Pr in apiData.Proteina)
                 {
-                    Console.WriteLine(Pr.Nombre);
+                    Console.WriteLine($"Este es el nombre de la proteina {Pr.Nombre}");
+                    Console.WriteLine($"Esta es la cantidad: {Pr.cantidad}");
                 }
 
 
 
-
-
-
-
-
+                Console.ReadKey();
 
 
 
             }
+        
             catch 
             { 
             
             }
+        
 
         }
     }
 }
+
+

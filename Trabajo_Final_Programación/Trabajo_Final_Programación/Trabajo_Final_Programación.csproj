@@ -79,6 +79,7 @@
     <Compile Include="GestorRecetas.cs" />
     <Compile Include="ICalcular.cs" />
     <Compile Include="Ingrediente.cs" />
+    <Compile Include="IngredienteApi.cs" />
     <Compile Include="Lacteo.cs" />
     <Compile Include="Liquido.cs" />
     <Compile Include="Program.cs" />

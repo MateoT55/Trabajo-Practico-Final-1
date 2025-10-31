@@ -21,7 +21,7 @@ namespace Trabajo_Final_Programación
 
         public Ingrediente()
         {
-            this.nombre = string.Empty;
+            this.Nombre = string.Empty;
             this.cantidad = 0;
             this.calorias = 0;
             this.proteina = 0;
@@ -34,7 +34,7 @@ namespace Trabajo_Final_Programación
 
         public Ingrediente(string nombre, double cantidad, double calorias, double proteina, double carbohidratos, double grasas, bool esVegano, bool aptoCeliaco)
         {
-            this.nombre = nombre;
+            this.Nombre = nombre;
             this.cantidad = cantidad;
             this.calorias = calorias;
             this.proteina = proteina;
