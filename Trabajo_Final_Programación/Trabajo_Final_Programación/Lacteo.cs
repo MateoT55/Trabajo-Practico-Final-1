@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Trabajo_Final_Programación
 {
-    public class Lacteo: Ingrediente, ICalcular
+    public class Lacteo: Ingrediente
     {
 
         public Lacteo()
@@ -36,10 +36,5 @@ namespace Trabajo_Final_Programación
 
 
 
-
-        public void ICalcularValorNutricional()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

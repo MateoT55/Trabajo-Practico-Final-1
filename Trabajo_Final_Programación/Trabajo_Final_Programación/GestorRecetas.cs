@@ -14,30 +14,44 @@ namespace Trabajo_Final_Programación
         private List<Receta> _recetas = new List<Receta>();
         private const string ArchivoRecetas = "recetas.json";
 
-
-
-
-
+        public GestorRecetas()
+        {
+            CargarReceta();
+        }
         public List<Receta> coleccionRecetas
         { 
             get { return this._recetas; }
             set { this._recetas = value; }
         }
 
-
-
-
-
-        public void AgregarReceta(Receta nuevaReceta)
+        public bool EliminarColeccion()
         {
-            coleccionRecetas.Add(nuevaReceta);
-            GuardarReceta(); // Guarda automáticamente al agregar
+            try
+            {
+                if (File.Exists(ArchivoRecetas))
+                {
+                    File.Delete(ArchivoRecetas); 
+                    _recetas = new List<Receta>(); 
+                    return true;
+                }
+                return false; 
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error al intentar eliminar el archivo: {ex.Message}");
+                return false;
+            }
         }
-
         public void GuardarReceta()
         {
             string jsonString = JsonSerializer.Serialize(coleccionRecetas, new JsonSerializerOptions { WriteIndented = true });
             File.WriteAllText(ArchivoRecetas, jsonString);
+        }
+
+        public void AgregarReceta(Receta nuevaReceta)
+        {
+            coleccionRecetas.Add(nuevaReceta);
+            GuardarReceta(); 
         }
 
         public void CargarReceta()
@@ -45,12 +59,11 @@ namespace Trabajo_Final_Programación
             if (File.Exists(ArchivoRecetas))
             {
                 string jsonString = File.ReadAllText(ArchivoRecetas);
-                // Deserialización: convierte el texto JSON a la lista de objetos Receta
                 coleccionRecetas = JsonSerializer.Deserialize<List<Receta>>(jsonString);
             }
             else
             {
-                coleccionRecetas = new List<Receta>(); // Crea una lista vacía si el archivo no existe
+                coleccionRecetas = new List<Receta>(); 
             }
         }
 

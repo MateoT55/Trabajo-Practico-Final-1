@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Trabajo_Final_Programación
 {
-    public class Carbohidrato: Ingrediente, ICalcular
+    public class Carbohidrato: Ingrediente
     {
 
 
@@ -39,9 +39,5 @@ namespace Trabajo_Final_Programación
 
 
 
-        public void ICalcularValorNutricional()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

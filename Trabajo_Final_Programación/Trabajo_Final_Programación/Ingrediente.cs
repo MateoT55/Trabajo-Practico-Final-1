@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Trabajo_Final_Programación
 {
-    public class Ingrediente
+    public class Ingrediente: ICalcular
     {
         private string _nombre;
         private double _cantidad;
@@ -87,6 +87,19 @@ namespace Trabajo_Final_Programación
         {
             get { return this._aptoCeliaco; }
             set { this._aptoCeliaco = value; }
+        }
+
+
+
+        public ValorNutricional ICalcularValorNutricional()
+        {
+            ValorNutricional val = new ValorNutricional();
+            val.caloriasTotal = this.calorias * this.cantidad;
+            val.proteinaTotal = this.proteina * this.cantidad;
+            val.carbohidratosTotal = this.carbohidratos * this.cantidad;
+            val.grasasTotal =  this.grasas * this.cantidad;
+
+            return val;
         }
     }
 }

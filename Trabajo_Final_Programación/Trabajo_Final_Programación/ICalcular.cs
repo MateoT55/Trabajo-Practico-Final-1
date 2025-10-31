@@ -8,7 +8,7 @@ namespace Trabajo_Final_Programación
 {
     internal interface ICalcular
     {
-        void ICalcularValorNutricional();
+        ValorNutricional ICalcularValorNutricional();
            
     }
 }

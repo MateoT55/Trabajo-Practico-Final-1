@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Trabajo_Final_Programación
 {
-    public class Vegetal: Ingrediente, ICalcular
+    public class Vegetal: Ingrediente
     {
 
 
@@ -40,9 +40,5 @@ namespace Trabajo_Final_Programación
 
 
 
-        public void ICalcularValorNutricional()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
