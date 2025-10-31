@@ -1,0 +1,100 @@
+[
+  {
+    "nombre": "Pastel de papa",
+    "desc": "Gran receta de la epoca babilonica creada en los confines rusos",
+    "dificultad": 1,
+    "ingrediente": [
+      {
+        "nombre": "Carne Picada (Cocida)",
+        "cantidad": 3,
+        "calorias": 254,
+        "proteina": 26,
+        "carbohidratos": 0,
+        "grasas": 15,
+        "esVegano": false,
+        "aptoCeliaco": true
+      },
+      {
+        "nombre": "Papa (Cocida)",
+        "cantidad": 3,
+        "calorias": 87,
+        "proteina": 1.8999999999999999,
+        "carbohidratos": 20,
+        "grasas": 0.10000000000000001,
+        "esVegano": true,
+        "aptoCeliaco": true
+      }
+    ],
+    "cantidad": 0,
+    "calorias": 0,
+    "proteina": 0,
+    "carbohidratos": 0,
+    "grasas": 0,
+    "esVegano": false,
+    "aptoCeliaco": false
+  },
+  {
+    "nombre": "Guiso de la abuela",
+    "desc": "El mayormente conocido guiso que nos hace nuestra abuela querida",
+    "dificultad": 1,
+    "ingrediente": [
+      {
+        "nombre": "Carne Picada (Cocida)",
+        "cantidad": 2,
+        "calorias": 254,
+        "proteina": 26,
+        "carbohidratos": 0,
+        "grasas": 15,
+        "esVegano": false,
+        "aptoCeliaco": true
+      },
+      {
+        "nombre": "Fideos (Cocidos)",
+        "cantidad": 3,
+        "calorias": 158,
+        "proteina": 6,
+        "carbohidratos": 31,
+        "grasas": 0.90000000000000002,
+        "esVegano": true,
+        "aptoCeliaco": false
+      },
+      {
+        "nombre": "Cebolla (Cruda)",
+        "cantidad": 2,
+        "calorias": 40,
+        "proteina": 1.1000000000000001,
+        "carbohidratos": 7.5999999999999996,
+        "grasas": 0.10000000000000001,
+        "esVegano": true,
+        "aptoCeliaco": true
+      },
+      {
+        "nombre": "Tomate (Crudo)",
+        "cantidad": 5,
+        "calorias": 20,
+        "proteina": 1,
+        "carbohidratos": 4,
+        "grasas": 0,
+        "esVegano": true,
+        "aptoCeliaco": true
+      },
+      {
+        "nombre": "Agua",
+        "cantidad": 3,
+        "calorias": 0,
+        "proteina": 0,
+        "carbohidratos": 0,
+        "grasas": 0,
+        "esVegano": true,
+        "aptoCeliaco": true
+      }
+    ],
+    "cantidad": 0,
+    "calorias": 0,
+    "proteina": 0,
+    "carbohidratos": 0,
+    "grasas": 0,
+    "esVegano": false,
+    "aptoCeliaco": false
+  }
+]

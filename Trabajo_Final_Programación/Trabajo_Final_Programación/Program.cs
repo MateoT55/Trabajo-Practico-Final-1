@@ -123,6 +123,7 @@ namespace Trabajo_Final_Programación
 
                                 if (opcIng == 1)
                                 {
+                                    Console.Clear();
                                     for (int i = 0; i < apiData.Proteina.Count; i++)
                                     {
                                         Console.WriteLine($"{i + 1}- {apiData.Proteina[i].nombre} son 100 gramos cada unidad");
@@ -159,6 +160,7 @@ namespace Trabajo_Final_Programación
                                 }
                                 else if (opcIng == 2)
                                 {
+                                    Console.Clear();
                                     for (int i = 0; i < apiData.Carbohidrato.Count; i++)
                                     {
                                         Console.WriteLine($"{i + 1}- {apiData.Carbohidrato[i].nombre} son 100 gramos cada unidad");
@@ -194,6 +196,7 @@ namespace Trabajo_Final_Programación
                                 }
                                 else if (opcIng == 3)
                                 {
+                                    Console.Clear();
                                     for (int i = 0; i < apiData.Vegetal.Count; i++)
                                     {
                                         Console.WriteLine($"{i + 1}- {apiData.Vegetal[i].nombre} son 100 gramos cada unidad");
@@ -230,6 +233,7 @@ namespace Trabajo_Final_Programación
                                 }
                                 else if (opcIng == 4)
                                 {
+                                    Console.Clear();
                                     for (int i = 0; i < apiData.Fruta.Count; i++)
                                     {
                                         Console.WriteLine($"{i + 1}- {apiData.Fruta[i].nombre} son 100 gramos cada unidad");
@@ -266,6 +270,7 @@ namespace Trabajo_Final_Programación
                                 }
                                 else if (opcIng == 5)
                                 {
+                                    Console.Clear();
                                     for (int i = 0; i < apiData.Lacteo.Count; i++)
                                     {
                                         Console.WriteLine($"{i + 1}- {apiData.Lacteo[i].nombre} son 100 gramos cada unidad");
@@ -302,6 +307,7 @@ namespace Trabajo_Final_Programación
                                 }
                                 else if (opcIng == 6)
                                 {
+                                    Console.Clear();
                                     for (int i = 0; i < apiData.Liquido.Count; i++)
                                     {
                                         Console.WriteLine($"{i + 1}- {apiData.Liquido[i].nombre} son 100 gramos cada unidad");
